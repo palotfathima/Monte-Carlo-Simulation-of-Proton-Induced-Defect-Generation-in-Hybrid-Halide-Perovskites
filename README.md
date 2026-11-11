@@ -15,28 +15,6 @@ Incident proton energies: **10, 30, 50, and 100 keV**.
 
 Baseline run settings: 10,000 incident protons, 0° incidence, full damage cascades, and a 1 µm total absorber thickness. The bilayer is irradiated from the MAPbI3 side.
 
-## Repository structure
-
-```text
-.
-├── data/
-│   ├── input/
-│   │   ├── vacancy_depth_profiles_complete.csv
-│   │   └── recoil_energy_depth_profiles_complete.csv
-│   └── processed/
-├── docs/
-│   └── DATA_DICTIONARY.md
-├── figures/
-├── scripts/
-│   ├── 01_process_vacancy_profiles.py
-│   ├── 02_process_recoil_energy.py
-│   ├── 03_combined_analysis.py
-│   └── 04_depth_resolved_analysis.py
-├── srim_raw/
-├── .gitignore
-├── requirements.txt
-└── README.md
-```
 ## Current preliminary observations
 
 - Vacancy production generally increases from 10 to 50 keV in all four configurations.
