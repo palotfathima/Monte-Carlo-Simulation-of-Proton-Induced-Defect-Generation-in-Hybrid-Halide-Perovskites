@@ -15,7 +15,7 @@ Incident proton energies: **10, 30, 50, and 100 keV**.
 
 Baseline run settings: 10,000 incident protons, 0° incidence, full damage cascades, and a 1 µm total absorber thickness. The bilayer is irradiated from the MAPbI3 side.
 
-## Current preliminary observations
+## Observations
 
 - Vacancy production generally increases from 10 to 50 keV in all four configurations.
 - At 100 keV, the triple-cation model has the largest integrated vacancy count within the 1 µm domain (about 21.98 vacancies per incident proton).
