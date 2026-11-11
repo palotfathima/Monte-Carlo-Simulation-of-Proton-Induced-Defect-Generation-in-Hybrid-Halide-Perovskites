@@ -1,0 +1,45 @@
+============================================================
+                 Saved DATA File for TRIM                   
+       Changes will Modify Continued TRIM Calculations      
+============================================================
+TRIM  Version  Number  /  Calculation Name 
+"SRIM-2013.00"    "MAPbI3_10kAng_50keV                     "
+ION DATA:At.Numb, Mass(amu), Energy (keV) , Angle to Target
+          1     1.0080  5.0000E+01    00.0
+ION NUMB: Current, Total, AutoSave, Transmitted, Backscattered 
+        10000 10000  10000    0    106
+CURRENT ION: Energy(eV),  Depth (X,Y,Z), Trajectory: Cos(X,Y,Z), Sin(X)
+8.24863E-01 6.30985E+03 8.50563E+02 1.47945E+02 -0.107902 -0.414805 0.903490 0.994161
+ION AVGS:  Range,      Straggling,   Vacancies/Ion
+        5.4755E+03   1.5183E+03   2.0734E+01
+ION SUMS:  Range,Straggling,(Vacancies,Replacements,Interstitials)/Ang.
+5.41743E+007  3.19437E+011  1.97155E+015  1.25903E+019  2.07343E+003  9.49700E+001  2.16829E+003  1.10000E+001
+Ion Y-Z Lateral Data :  Range, Straggling, Kurtosis, Radial Dev.
+1.46369E+007  3.41914E+010  2.32086E+007  6.94559E+010
+2.34573E+003  1.23189E+003  1.47937E+003  1.85897E+003  1.26197E+002
+Cascade Type, FileFLAGS: Sputter, Ranges, Backscatter, Transmit, Collisions, Random Seeds(2)
+  2 0 1 1 1 1 0 143739261 423896208
+TGT DATA: ------- Numb.Elements, Numb.Layers -----------------
+                       5           1
+TGT DATA: Atomic Numb, Mass,  Disp., Binding, Surf. Energy(eV)
+ 6            12.0110       11.00         3.00          7.41
+ 1            1.0080        11.00         3.00          2.00
+ 7            14.0070       11.00         3.00          2.00
+ 82           207.1900      8.00          3.00          2.03
+ 53           126.9000      9.00          3.00          2.00
+TGT Layers: Name      Width(A),    Depth(A), Density(g/cm3), Stoichiometry (Tgt.Atoms)
+    "MAPbI3" 1.0000E+04     1.0000E+04    4.1400E+00 8.33331E-02 5.00000E-01 8.33331E-02 8.33331E-02 2.50000E-01
+Lowest E,  Ed(min)  (eV)
+ 1             8 
+Total Sputtered Atoms and Energy (eV)     (Target Atoms 1 - 5  )
+    1.000E+000 8.486E+000    6.000E+000 1.474E+002    0.000E+000 0.000E+000    1.000E+000 5.614E+001    3.000E+000 3.111E+001 
+Plot Display Start Depth (A), End Depth(A), Depth Resolution (Ang.)
+ 0             10000         100 
+Plotting Colors from TRIM.CFG
+ 16777215      255           6             16777215      255           16777215      16777215      16777215      255           8388608       65280         16776960 
+ 16777215  4227327  15982183  16744703  16777088  13159423  16760769  8421376  6422724  8388736  4755857  9408399  16777215 
+ 255  837122  16417654  12519886  13814035  9673727  16711680  65280  12615935  16716287  8700353  12566463  255 
+Collision Plots and Plot Positions
+ 1             0             0             0             0             200           0             0             0             162           0             0 
+Animated Collison Plot Position
+ 2865          2935          3005          3075 
